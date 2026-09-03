@@ -1,0 +1,22 @@
+TASKFLOW - SUBMISSION PROJECT
+=============================
+
+1. Install Node.js 18+.
+2. Install/run MongoDB, or use Docker:
+      docker compose up -d
+
+3. Backend:
+      cd server
+      npm install
+      copy .env.example .env
+      npm run dev
+
+4. Frontend (new terminal):
+      cd client
+      npm install
+      npm run dev
+
+5. Open:
+      http://localhost:5173
+
+For full details, read README.md.
